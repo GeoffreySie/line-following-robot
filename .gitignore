@@ -1,0 +1,10 @@
+data/
+regression_dataset/
+regression_dataset.zip
+lectures/
+report/
+inference_tests/
+.github/
+.vscode/
+*.pdf
+*.docx
