@@ -6,5 +6,4 @@ report/
 inference_tests/
 .github/
 .vscode/
-*.pdf
 *.docx
